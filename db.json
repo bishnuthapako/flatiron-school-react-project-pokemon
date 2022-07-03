@@ -1,0 +1,87 @@
+
+{
+  "favorite": {
+    "bulbasaur":{
+      "name": "bulbasaur",
+      "likes": 30
+    },
+    "ivysaur":{
+      "name": "ivysaur",
+      "likes": 40
+      },
+    "charmander":{
+      "name": "charmander",
+      "likes": 20
+     },
+     "charmeleon":{
+        "name": "charmeleon",
+          "likes": 8
+        },
+     "charizard": {
+          "name": "charizard",
+          "likes": 11
+                  },
+     "squirtle":{
+          "name": "squirtle",
+          "likes": 13
+                },
+       "wartortle":{
+          "name": "wartortle",
+          "likes": 150
+                  },
+       "blastoise":{
+          "name": "blastoise",
+          "likes": 21
+                    },
+      "caterpie":{
+          "name": "caterpie",
+          "likes": 27
+                },
+       "metapod":{
+            "name": "metapod",
+            "likes": 52
+          },
+      "butterfree":{
+            "name": "butterfree",
+            "likes": 41
+                    },
+      "weedle":{
+            "name": "weedle",
+            "likes": 14
+            },
+      "kakuna":{
+          "name": "kakuna",
+          "likes": 37
+            },
+      "beedrill":{
+          "name": "beedrill",
+          "likes": 47
+            },
+     "pidgey":{
+          "name": "pidgey",
+          "likes": 35
+              },
+      "pidgeotto":{
+              "name": "pidgeotto",
+              "likes": 53
+            },
+      "venusaur": {
+              "name": "venusaur",
+              "likes": 59
+            },
+     "pidgeot":{
+            "name": "pidgeot",
+            "likes": 59
+          },
+      "rattata":{
+            "name": "rattata",
+            "likes": 68
+                },
+      "raticate":{
+          "name": "raticate",
+          "likes": 44
+        }
+      
+    }
+}
+
