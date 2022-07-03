@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flatiron-school-react-project-pokemon/static/css/main.d87d0017.css",
+    "main.js": "/flatiron-school-react-project-pokemon/static/js/main.8882e196.js",
+    "static/js/787.b4d1909f.chunk.js": "/flatiron-school-react-project-pokemon/static/js/787.b4d1909f.chunk.js",
+    "index.html": "/flatiron-school-react-project-pokemon/index.html",
+    "main.d87d0017.css.map": "/flatiron-school-react-project-pokemon/static/css/main.d87d0017.css.map",
+    "main.8882e196.js.map": "/flatiron-school-react-project-pokemon/static/js/main.8882e196.js.map",
+    "787.b4d1909f.chunk.js.map": "/flatiron-school-react-project-pokemon/static/js/787.b4d1909f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d87d0017.css",
+    "static/js/main.8882e196.js"
+  ]
+}
