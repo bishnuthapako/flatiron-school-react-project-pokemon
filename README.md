@@ -31,3 +31,8 @@ https://pokeapi.co/api/v2/pokemon
 - Defense
 - Speed
 
+
+## Screenshots
+
+![App Screenshot](https://github.com/bishnuthapako/flatiron-school-react-project-pokemon/blob/master/src/img/pokeimg.jpg?raw=true)
+
